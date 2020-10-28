@@ -1,4 +1,4 @@
-# computerphile's Sudoku algorithm in Python and Julia: time comparison
+# Computerphile's Sudoku algorithm in Python and Julia: time comparison
 
 
 ### insert text here
